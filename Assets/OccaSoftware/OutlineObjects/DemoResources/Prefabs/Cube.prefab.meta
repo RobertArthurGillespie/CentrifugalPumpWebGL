@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 71dbe640f42598a428a68a3c91e5075b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 215454
+  packageName: os. Outline Objects | Quick Outlines in 2D and 3D for Unity URP
+  packageVersion: 2.1.1
+  assetPath: Assets/OccaSoftware/OutlineObjects/DemoResources/Prefabs/Cube.prefab
+  uploadId: 570601

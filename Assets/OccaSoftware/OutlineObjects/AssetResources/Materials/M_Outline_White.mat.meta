@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac51094a39d0f2448a9137f2cc51016c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 215454
+  packageName: os. Outline Objects | Quick Outlines in 2D and 3D for Unity URP
+  packageVersion: 2.1.1
+  assetPath: Assets/OccaSoftware/OutlineObjects/AssetResources/Materials/M_Outline_White.mat
+  uploadId: 570601

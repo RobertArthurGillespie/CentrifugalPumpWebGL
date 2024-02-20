@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fcca42a67e117ed43ba7d998a9db7152
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 215454
+  packageName: os. Outline Objects | Quick Outlines in 2D and 3D for Unity URP
+  packageVersion: 2.1.1
+  assetPath: Assets/OccaSoftware/OutlineObjects/DemoResources/Materials/FloorPlane.mat
+  uploadId: 570601

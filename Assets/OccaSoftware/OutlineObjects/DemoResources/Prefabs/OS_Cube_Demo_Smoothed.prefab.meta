@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 41c1cf88806a0084085a5114c9ca723c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 215454
+  packageName: os. Outline Objects | Quick Outlines in 2D and 3D for Unity URP
+  packageVersion: 2.1.1
+  assetPath: Assets/OccaSoftware/OutlineObjects/DemoResources/Prefabs/OS_Cube_Demo_Smoothed.prefab
+  uploadId: 570601

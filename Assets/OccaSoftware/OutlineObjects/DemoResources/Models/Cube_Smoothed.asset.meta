@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ecaee10f6fb6e246955c840a8d7f43b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 215454
+  packageName: os. Outline Objects | Quick Outlines in 2D and 3D for Unity URP
+  packageVersion: 2.1.1
+  assetPath: Assets/OccaSoftware/OutlineObjects/DemoResources/Models/Cube_Smoothed.asset
+  uploadId: 570601

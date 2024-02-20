@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 93d317988871c674e9bde0b464c32218
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 215454
+  packageName: os. Outline Objects | Quick Outlines in 2D and 3D for Unity URP
+  packageVersion: 2.1.1
+  assetPath: Assets/OccaSoftware/OutlineObjects/AssetResources/Editor/OccaSoftware.OutlineObjects.Editor.asmdef
+  uploadId: 570601

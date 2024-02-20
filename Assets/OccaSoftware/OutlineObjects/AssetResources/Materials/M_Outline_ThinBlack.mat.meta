@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 028ac2e9d4e582845815792971765447
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 215454
+  packageName: os. Outline Objects | Quick Outlines in 2D and 3D for Unity URP
+  packageVersion: 2.1.1
+  assetPath: Assets/OccaSoftware/OutlineObjects/AssetResources/Materials/M_Outline_ThinBlack.mat
+  uploadId: 570601
